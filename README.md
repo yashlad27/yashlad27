@@ -39,6 +39,15 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" />
+
+<img align="left" alt="C" width="26px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" style="padding-right:10px;" />
+
+<img align="left" alt="C++" width="26px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="26px" src="https://www.meme-arsenal.com/memes/aedccb7b888468d35e9855e503b8e706.jpg" style="padding-right:10px;" />
+
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
