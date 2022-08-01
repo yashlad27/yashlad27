@@ -1,13 +1,5 @@
 # Hi there, I'm Yash  👋 
 
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
-<!-- [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com) -->
-
-
 ## I'm a Student, Developer and TechGeek🤓!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
@@ -16,6 +8,19 @@
 - 🥅 2022 Goals: Learn more about  Flutter, Swift and Solidity
 - ⚡ Fun fact: I love to drive and play guitar 🎸
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+
+### :zap: GitHub Stats
+<img src="https://github.com/yashlad27/yashlad27/blob/main/images/Line.gif">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlad27&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashlad27&theme=radical" /><br><br>
+    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=yashlad27&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=!&layout=compact"/><br><br>
+  </a>
+</p>
+
+
+![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashlad27&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 ### Connect with me:
 
