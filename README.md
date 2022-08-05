@@ -30,13 +30,13 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp; -->
-[![website](./img/twitter-light.svg)](https://twitter.com/LadYash27)
+
 [![website](./img/twitter-dark.svg)](https://twitter.com/LadYash27)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yash-lad-234118201/)
+
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yash-lad-234118201/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
