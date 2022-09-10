@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I love to drive and play guitar 🎸
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=yashlad27 /> </p>
+
 ### :zap: GitHub Stats
 <img src="https://github.com/yashlad27/yashlad27/blob/main/images/Line.gif">
 <p align="center">
