@@ -41,13 +41,14 @@
 
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-<br><br>
+
 
 <p align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target = "_blank">
     <img width = 60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashlad27&layout=compact&theme=radical&custom_title=Languages&card_width=445"/>
   </a>
 </p>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
