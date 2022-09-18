@@ -57,11 +57,11 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" />
 
-<img align="left" alt="C" width="26px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" style="padding-right:10px;" />
 
-<img align="left" alt="C++" width="26px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"/>
 
-<img align="left" alt="Java" width="26px" src="https://www.meme-arsenal.com/memes/aedccb7b888468d35e9855e503b8e706.jpg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" />
 
 
 <img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
@@ -74,6 +74,8 @@
                             
 <img align="left" alt="Flutter" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
           
+<img align="left" alt="Node-JS" width="26px"  src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" />
+
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg"/>
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -86,5 +88,4 @@
 
 <br><br>
 
- ![Snake animation](https://github.com/https://github.com/yashlad27/yashlad27/blob/output/github-contribution-grid-snake.svg)
-
+ 
