@@ -85,6 +85,10 @@
 
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
+<img align="left" alt="Bash" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" />
+
+<img align="left" alt="NPM" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg" />
+
 
 <br><br>
 
