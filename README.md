@@ -5,7 +5,7 @@
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other Programmers.
-- 🥅 2022 Goals: Learn more about  Flutter, Java and Solidity.
+- 🥅 2022 Goals: Learn more about  DeepLearning, TensorFlow and Solidity.
 - ⚡ Fun fact: I love to drive and play guitar 🎸.
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
