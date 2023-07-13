@@ -56,11 +56,9 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg"/>
 
-<img align="left" alt="React" width="26px" src="https://commons.wikimedia.org/wiki/File:React-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://github.com/yashlad27/yashlad27/blob/main/img/react.png" style="padding-right:10px;" />
 
-<img align="left" alt="Redux" width="26px" src="https://www.pngwing.com/en/free-png-izaua" style="padding-right:10px;" />
-
-<img align="left" alt="Next JS" width="26px" src="https://www.pngwing.com/en/free-png-azcax" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/yashlad27/yashlad27/blob/main/img/redux.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" />
 
