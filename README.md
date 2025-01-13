@@ -3,9 +3,10 @@
 ## I'm a Student, Developer and TechGeek🤓!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 Working as SDE Intern with Freecharge.
+- 📚 MSCS Candidate @ NEU Khoury College of Computer Sciences, BOSTON
+- 🌱 Worked as SDE Intern with Freecharge.
 - 👯 I’m looking to collaborate with other Programmers.
-- 🥅 2023 Goals: Leetcode 150, Swift, Next.JS. 
+- 🥅 2025 Goals: REST-API, JAVA, PDP(CS5010). 
 - ⚡ Fun fact: I love to drive and play guitar 🎸.
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
