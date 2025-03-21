@@ -1,72 +1,54 @@
-# Hi there, I'm Yash  👋 
+# Hi there, I'm Yash! 👋
 
-## I'm a Student, Developer and TechGeek🤓!!
+## 🚀 About Me
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 📚 MSCS Candidate @ NEU Khoury College of Computer Sciences, BOSTON
-- 🌱 Worked as SDE Intern with Freecharge.
-- 👯 I’m looking to collaborate with other Programmers.
-- 🥅 2025 Goals: REST-API, JAVA, PDP(CS5010). 
-- ⚡ Fun fact: I love to drive and play guitar 🎸.
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+- 🎓 **MSCS Candidate** @ Northeastern University, Boston
+- 💻 **Ex-SDE Intern** @ Freecharge | Passionate about fintech & AI
+- 🤝 Looking to collaborate on **finance-tech projects & AI-driven trading systems**
+- 🎯 **2025 Goals:** Master **REST APIs, Java, PDP (CS5010), and Algorithmic Trading**
+- 🎸 **Fun Fact:** I love driving & playing guitar in my free time!
 
-<p align="right"> <img src=https://komarev.com/ghpvc/?username=yashlad27 /> </p>
+---
 
-### :zap: GitHub Stats
-<img src="https://github.com/yashlad27/yashlad27/blob/main/images/Line.gif">
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlad27&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashlad27&theme=radical" /><br><br>
-    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=yashlad27&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=!&layout=compact"/><br><br>
-  </a>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlad27&theme=radical&hide_border=true" />
+  <br><br>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashlad27&theme=radical" />
+  <br><br>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=yashlad27&show_icons=true&hide_border=true&theme=radical" />
 </p>
 
+<!-- Contribution Graph -->
+![Yash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashlad27&theme=react-dark&hide_border=true)
 
-![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashlad27&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+---
 
+## 🛠️ Tech Stack & Tools
 
-<p align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target = "_blank">
-    <img width = 60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashlad27&layout=compact&theme=radical&custom_title=Languages&card_width=445"/>
-  </a>
-</p>
+### Programming & Frameworks
 
-### Languages and Tools:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+### Databases & Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+---
 
-<img align="left" alt="Tailwind" width="26px" src="https://github.com/yashlad27/yashlad27/blob/main/img/tailwindcss-icon.svg" style="padding-right:10px;" />
+## 📫 Connect with Me
 
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashlad27/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashlad27)
 
-<img align="left" alt="React" width="26px" src="https://github.com/yashlad27/yashlad27/blob/main/img/React-icon.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Redux" width="26px" src="https://github.com/yashlad27/yashlad27/blob/main/img/redux.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" />
-          
-<img align="left" alt="Node-JS" width="26px"  src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" />
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
-
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/yashlad27/yashlad27/blob/main/img/mongodb-ar21.svg" style="padding-right:10px;" /> 
-
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="NPM" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<img align="left" alt="Bash" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" />
-
-
-
-
-<br><br>
-
- 
+> **"Tech is a tool to solve real-world problems, and I'm here to make an impact."**
