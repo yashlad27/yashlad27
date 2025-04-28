@@ -15,8 +15,7 @@
   <br><br>
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=yashlad27&show_icons=true&hide_border=true&theme=radical" />
 </p>
-<!-- Contribution Graph -->
-![Yash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashlad27&theme=react-dark&hide_border=true)
+
 ---
 ## 🛠️ Tech Stack & Tools
 
