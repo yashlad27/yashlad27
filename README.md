@@ -4,7 +4,6 @@
 - 💻 **Ex-SDE Intern** @ Freecharge | Passionate about fintech & AI
 - 🤝 Looking to collaborate on **finance-tech projects & AI-driven trading systems**
 - 🎯 **2025 Goals:** Master **REST APIs, Java, PDP (CS5010), and Algorithmic Trading**
-- 💼 **Actively seeking** Quant Finance Internships for Summer 2026
 - 🎸 **Fun Fact:** I love driving & playing guitar in my free time!
 ---
 ## 📊 GitHub Stats
@@ -22,7 +21,6 @@
 ### Programming & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
