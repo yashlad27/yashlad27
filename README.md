@@ -3,9 +3,9 @@
 - 🎓 **MSCS Candidate** @ Northeastern University, Boston
 - 💻 **Ex-SDE Intern** @ Freecharge | Passionate about fintech & AI
 - 🤝 Looking to collaborate on **finance-tech projects & AI-driven trading systems**
-- 🎯 **2025 Goals:** Master **REST APIs, Java, PDP (CS5010), and Algorithmic Trading**
+- 🎯 **2025 Goals:** **RAIN project development, LC-Hard problems, and Fitness**
 - 💼 **Actively seeking** Quant Finance Internships for Summer 2026
-- 🎸 **Fun Fact:** I love driving & playing guitar in my free time!
+- 🎸 **Fun Fact:** I love driving & playing guitar in my free time! I also love going on tiger safaris and being in nature without any network!
 ---
 ## 📊 GitHub Stats
 <p align="center">
@@ -17,30 +17,44 @@
 </p>
 
 ---
-## 🛠️ Tech Stack & Tools
+## 🛠️ Languages and Tools
 
-### Programming & Frameworks
+### Languages & Frameworks:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,redux,nodejs,django,flask" alt="Languages & Frameworks" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### Databases & DevOps:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,github,bitbucket" alt="Databases & DevOps" />
+</p>
 
-### Databases & Tools
+### ML & Data Science:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" alt="ML & Data Science" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Operating Systems & Terminal:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,powershell" alt="Operating Systems & Terminal" />
+</p>
+
+### Additional Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,powershell" alt="Additional Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="48" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashlad27/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashlad27)
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashlad27/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/yashlad27"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://twitter.com/yashlad27"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://www.hackerrank.com/profile/yashlad727"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" /></a>
+</p>
 
 > **"Tech is a tool to solve real-world problems, and I'm here to make an impact."**
