@@ -8,12 +8,20 @@
 - 🎸 **Fun Fact:** I love driving & playing guitar in my free time! I also love going on tiger safaris and being in nature without any network!
 ---
 ## 📊 GitHub Stats
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlad27&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yashlad27&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+### 📈 Contribution Stats
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlad27&theme=tokyonight&hide_border=true" />
   <br><br>
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashlad27&theme=radical" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashlad27&theme=tokyonight" />
   <br><br>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=yashlad27&show_icons=true&hide_border=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashlad27&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashlad27&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
