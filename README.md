@@ -30,22 +30,22 @@
 ### Languages & Frameworks:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,redux,nodejs,django,flask" alt="Languages & Frameworks" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" height="48" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="48" height="48" style="object-fit: contain;" />
 </p>
 
 ### Databases & DevOps:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,github,bitbucket,sqlite" alt="Databases & DevOps" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="48" height="48" style="object-fit: contain;" />
 </p>
 
 ### ML & Data Science:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" alt="ML & Data Science" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="SpaCy" height="48" />
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" height="48" />
-  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" height="48" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48" style="object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" alt="SpaCy" width="48" height="48" style="object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="48" height="48" style="object-fit: contain;" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" height="48" style="object-fit: contain;" />
 </p>
 
 ### Operating Systems & Terminal:
@@ -56,11 +56,11 @@
 ### Additional Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="48" />
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" style="object-fit: contain;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48" style="object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="48" height="48" style="object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" style="object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="object-fit: contain;" />
 </p>
 
 ---
