@@ -43,8 +43,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" alt="ML & Data Science" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48" style="object-fit: contain;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" alt="SpaCy" width="48" height="48" style="object-fit: contain;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="48" height="48" style="object-fit: contain;" />
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" height="48" style="object-fit: contain;" />
 </p>
 
